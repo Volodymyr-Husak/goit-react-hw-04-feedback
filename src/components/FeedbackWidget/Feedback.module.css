@@ -1,0 +1,31 @@
+@import-normalize;
+
+.btn_list {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.btn_item {
+  margin: 20px;
+  padding: 0;
+}
+
+.btn {
+  font-size: 30px;
+  border-radius: 5px;
+  background-color: rgb(27, 214, 214);
+cursor: cell;
+}
+
+.btn:hover {
+    background-color: rgb(136, 136, 224);
+}
+
+
+.statistics_list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
